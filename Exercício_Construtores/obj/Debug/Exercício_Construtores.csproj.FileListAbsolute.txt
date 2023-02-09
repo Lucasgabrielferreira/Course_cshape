@@ -1,0 +1,8 @@
+D:\CURSO C#\PROJETOS\Exercício_Construtores\Exercício_Construtores\bin\Debug\Exercício_Construtores.exe.config
+D:\CURSO C#\PROJETOS\Exercício_Construtores\Exercício_Construtores\bin\Debug\Exercício_Construtores.exe
+D:\CURSO C#\PROJETOS\Exercício_Construtores\Exercício_Construtores\bin\Debug\Exercício_Construtores.pdb
+D:\CURSO C#\PROJETOS\Exercício_Construtores\Exercício_Construtores\obj\Debug\Exercício_Construtores.csproj.AssemblyReference.cache
+D:\CURSO C#\PROJETOS\Exercício_Construtores\Exercício_Construtores\obj\Debug\Exercício_Construtores.csproj.SuggestedBindingRedirects.cache
+D:\CURSO C#\PROJETOS\Exercício_Construtores\Exercício_Construtores\obj\Debug\Exercício_Construtores.csproj.CoreCompileInputs.cache
+D:\CURSO C#\PROJETOS\Exercício_Construtores\Exercício_Construtores\obj\Debug\Exercício_Construtores.exe
+D:\CURSO C#\PROJETOS\Exercício_Construtores\Exercício_Construtores\obj\Debug\Exercício_Construtores.pdb
